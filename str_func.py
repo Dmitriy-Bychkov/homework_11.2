@@ -5,6 +5,7 @@ def upper_letters(string):
 
     Добавление забытого докстринга
     '''
+    
     return str(string).upper()
 
 
